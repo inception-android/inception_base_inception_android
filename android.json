@@ -1,0 +1,15 @@
+{
+    "__extends__": "inception.core",
+    "boot": {
+        "make": false
+    },
+    "recovery": {
+        "make": false
+    },
+    "cache": {
+        "make": false
+    },
+    "update": {
+        "make": false
+    }
+}
